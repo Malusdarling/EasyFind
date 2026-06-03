@@ -48,6 +48,8 @@ pyinstaller --onefile --windowed --name "EasyFind" --icon=app.ico main.py
 
 ## 系统界面
 <img width="2560" height="1504" alt="屏幕截图 2026-06-03 095843" src="https://github.com/user-attachments/assets/e8886aeb-d2c3-40ac-9cfb-33583ff36032" />
+<img width="1796" height="1288" alt="屏幕截图 2026-06-03 152920" src="https://github.com/user-attachments/assets/eb2322db-2582-4668-89a6-2078c287bf8f" />
+
 
 ## 📄 License
 
