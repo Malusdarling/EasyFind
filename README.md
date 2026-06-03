@@ -14,9 +14,9 @@
 
 ## 📥 下载
 
-[![Latest Release](https://img.shields.io/github/v/release/你的用户名/EasyFind)](https://github.com/你的用户名/EasyFind/releases)
+[![Latest Release](https://img.shields.io/github/v/release/Malusdarling/EasyFind)](https://github.com/Malusdarling/EasyFind/releases)
 
-前往 [Releases](https://github.com/你的用户名/EasyFind/releases) 页面下载 `EasyFind.exe`，直接双击运行。
+前往 [Releases](https://github.com/Malusdarling/EasyFind/releases) 页面下载 `EasyFind.exe`，直接双击运行。
 
 ## 🚀 使用方式
 
@@ -44,10 +44,11 @@ pyinstaller --onefile --windowed --name "EasyFind" --icon=app.ico main.py
 ## 📌 注意事项
 
 - 云盘文件（未同步到本地的 OneDrive/WPS 等）自动跳过
-- 路径含 WPSDrive 的文件自动跳过
 - AppData 等系统缓存目录自动跳过
 
 ## 📄 License
 
 MIT
 "# EasyFind" 
+## 系统界面
+<img width="2560" height="1504" alt="屏幕截图 2026-06-03 095843" src="https://github.com/user-attachments/assets/e8886aeb-d2c3-40ac-9cfb-33583ff36032" />
