@@ -1,4 +1,4 @@
-# EasyFind 关键词检索工具
+# EasyFind 本地文件全局关键词检索工具
 
 🔍 轻量桌面文件内容搜索工具，支持 Word / Excel / PPT / 文本 / CSV 等多种格式。
 
@@ -46,9 +46,13 @@ pyinstaller --onefile --windowed --name "EasyFind" --icon=app.ico main.py
 - 云盘文件（未同步到本地的 OneDrive/WPS 等）自动跳过
 - AppData 等系统缓存目录自动跳过
 
+## 系统界面
+<img width="2560" height="1504" alt="屏幕截图 2026-06-03 095843" src="https://github.com/user-attachments/assets/e8886aeb-d2c3-40ac-9cfb-33583ff36032" />
+
 ## 📄 License
 
 MIT
 "# EasyFind" 
-## 系统界面
-<img width="2560" height="1504" alt="屏幕截图 2026-06-03 095843" src="https://github.com/user-attachments/assets/e8886aeb-d2c3-40ac-9cfb-33583ff36032" />
+Copyright (c) 2026 [Malusdarling]
+
+允许任何人免费使用、修改、分发本软件，但需保留上述版权声明。
