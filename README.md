@@ -16,7 +16,7 @@
 
 [![Latest Release](https://img.shields.io/github/v/release/Malusdarling/EasyFind)](https://github.com/Malusdarling/EasyFind/releases)
 
-前往 [Releases](https://github.com/Malusdarling/EasyFind/releases) 页面下载 `EasyFind.exe`，直接双击运行。
+前往 [Releases](https://github.com/Malusdarling/EasyFind/releases) 页面下载对应版本 `EasyFind.exe`，直接双击运行。
 
 ## 🚀 使用方式
 
@@ -53,6 +53,7 @@ pyinstaller --onefile --windowed --name "EasyFind" --icon=app.ico main.py
 
 MIT
 "# EasyFind" 
+
 Copyright (c) 2026 [Malusdarling]
 
 允许任何人免费使用、修改、分发本软件，但需保留上述版权声明。
