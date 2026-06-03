@@ -1,0 +1,7 @@
+# EasyFind 桌面关键字检索工具 — 依赖清单
+# 安装命令: pip install -r requirements.txt
+
+# Office 文档支持（Word、Excel、PowerPoint）
+python-docx>=1.1.0      # .docx 文件读取
+openpyxl>=3.1.0         # .xlsx 文件读取
+python-pptx>=0.6.0      # .pptx 文件读取

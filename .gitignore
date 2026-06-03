@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.spec
+
+# PyInstaller 构建产物
+build/
+dist/
+
+# 临时文件
+*.tar.gz
+*.zip
+version_info.txt
+get-pip.py
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
